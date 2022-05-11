@@ -1,0 +1,7 @@
+0_Diving,https://www.youtube.com/watch?v=2OzlksZBTiA,40.00,60.00
+1_Rhinos1,https://www.youtube.com/watch?v=7IWp875pCxQ,15.00,60.00
+2_Elephants,https://www.youtube.com/watch?v=2bpICIClAIg,15.00,60.00
+3_Paris,https://www.youtube.com/watch?v=sJxiPiAaB4k,0.00,60.00
+4_Rollercoaster1,https://www.youtube.com/watch?v=8lsB-P8nGSM,65.00,60.00
+5_Timelapse,https://www.youtube.com/watch?v=CIw8R8thnm8,0.00,60.00
+6_Venise,https://www.youtube.com/watch?v=s-AJRFQuAtE,0.00,60.00
